@@ -1,4 +1,4 @@
--  Hi,👋 I’m @myself-vishwajeet
+-  Hi,👋 I’m vishwajeet
 - 👀 I’m interested in Web-dev.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
