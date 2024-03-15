@@ -1,6 +1,6 @@
 -  Hi,👋 I’m vishwajeet
-- 👀 I’m interested in Web-dev.
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in DevOps.
+- 🌱 I’m currently learning AWS.
 
 - 
   
