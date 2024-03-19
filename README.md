@@ -16,5 +16,5 @@ I'm a passionate learner and aspiring tech enthusiast currently diving into the 
 
 📫 Feel free to reach out if you want to discuss tech, share ideas, or collaborate on projects!
 
-[LinkedIn](https://www.linkedin.com/in/your-profile)
-[Portfolio](https://your-portfolio.com)
+[LinkedIn](https://www.linkedin.com/in/myself-vishwajeet-yadav/)
+
