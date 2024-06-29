@@ -1,20 +1,11 @@
-### Hi there, I'm Vishwajeet! 👋
+Hi there, I'm Vishwajeet! 👋
+I'm a passionate learner and aspiring full stack developer currently diving into the world of AWS.
 
-I'm a passionate learner and aspiring tech enthusiast currently diving into the world of AWS.
+👀 I’m interested in cloud computing, web development, building scalable applications, and solving complex problems.
+🌱 I’m currently learning about various AWS services and how to leverage them for efficient and scalable solutions.
+💡 I'm always eager to explore new technologies, expand my skill set, and tackle challenging problems.
 
-- 👀 I’m interested in cloud computing, web development, and building scalable applications.
-- 🌱 I’m currently learning about various AWS services and how to leverage them for efficient and scalable solutions.
-- 💡 I'm always eager to explore new technologies and expand my skill set.
-
-### What I'm Working On:
-
-🚀 Exploring AWS services such as EC2, S3, Lambda, and more to understand their capabilities and use cases.
+What I'm Working On:
+🚀 Delving into the concepts of operating systems (OS), database management systems (DBMS), and data structures and algorithms (DSA).
 🌐 Building web applications with modern frameworks like React and Node.js.
-📚 Continuous learning through online courses, tutorials, and hands-on projects.
-
-### Connect with Me:
-
-📫 Feel free to reach out if you want to discuss tech, share ideas, or collaborate on projects!
-
-[LinkedIn](https://www.linkedin.com/in/myself-vishwajeet-yadav/)
-
+📚 Continuously learning through online courses, tutorials, and hands-on projects to sharpen my problem-solving skills.
